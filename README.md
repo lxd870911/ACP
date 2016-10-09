@@ -16,9 +16,17 @@
 
 ## 平台截图
 点击可以看大图
-|<a href="http://7xihe6.com1.z0.glb.clouddn.com/cloudbang_01.png"><img src="http://7xihe6.com1.z0.glb.clouddn.com/cloudbang_01.png" width="100%"/></a>|<a href="http://7xihe6.com1.z0.glb.clouddn.com/cloudbang_02.png"><img src="http://7xihe6.com1.z0.glb.clouddn.com/cloudbang_02.png" width="100%"/></a>|<a href="http://7xihe6.com1.z0.glb.clouddn.com/cloudbang_03.png"><img src="http://7xihe6.com1.z0.glb.clouddn.com/cloudbang_03.png" width="100%"/></a>|<a href="http://7xihe6.com1.z0.glb.clouddn.com/cloudbang_04.png" ><img src="http://7xihe6.com1.z0.glb.clouddn.com/cloudbang_04.png" width="100%"/></a>|
-|-------------|--------------|----------------|---------------|
-| <center>应用概览</center>| <center>应用首页</center>| <center>性能监控</center>| <center>应用高级属性</center>|
+- 应用概览
+<a href="http://7xihe6.com1.z0.glb.clouddn.com/cloudbang_01.png"><img src="http://7xihe6.com1.z0.glb.clouddn.com/cloudbang_01.png" width="100%"/></a>
+
+- 应用首页
+<a href="http://7xihe6.com1.z0.glb.clouddn.com/cloudbang_02.png"><img src="http://7xihe6.com1.z0.glb.clouddn.com/cloudbang_02.png" width="100%"/></a>
+
+- 性能监控
+<a href="http://7xihe6.com1.z0.glb.clouddn.com/cloudbang_03.png"><img src="http://7xihe6.com1.z0.glb.clouddn.com/cloudbang_03.png" width="100%"/></a>
+
+- 应用高级属性
+<a href="http://7xihe6.com1.z0.glb.clouddn.com/cloudbang_04.png" ><img src="http://7xihe6.com1.z0.glb.clouddn.com/cloudbang_04.png" width="100%"/></a>
 
 > 可以访问云帮公有云快速体验 https://user.goodrain.com
 
