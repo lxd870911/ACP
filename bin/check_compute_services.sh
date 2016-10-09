@@ -20,7 +20,7 @@ function PrintInfo {
 }
 
 
-BaseServiceList="docker"
+BaseServiceList=""
 
 K8SList="kubelet calico"
 
@@ -29,7 +29,24 @@ SystemList="nginx openresty"
 
 clear
 
-# BaseServiceList
+# docker
+echo -e "\033[42;37mCheck docker daemon service...\033[0m"
+for i in {30..0};do
+  if pgrep -f /usr/bin/docker >/dev/null 2>&1;then
+    if curl localhost:2376/version >/dev/null 2>&1;then
+      PrintInfo info "docker is OK"
+      break
+    else
+      PrintInfo error "Waiting docker start..."
+    fi
+  else
+    PrintInfo error "docker is down,start service..."
+    start docker
+  fi
+  sleep 1
+done
+
+# BaseServices
 echo -e "\033[42;37mCheck Base Services...\033[0m"
 for s in $BaseServiceList
 do
