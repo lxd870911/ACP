@@ -33,12 +33,8 @@ clear
 echo -e "\033[42;37mCheck docker daemon service...\033[0m"
 for i in {30..0};do
   if pgrep -f /usr/bin/docker >/dev/null 2>&1;then
-    if curl localhost:2376/version >/dev/null 2>&1;then
-      PrintInfo info "docker is OK"
-      break
-    else
-      PrintInfo error "Waiting docker start..."
-    fi
+    PrintInfo info "docker is OK"
+    break
   else
     PrintInfo error "docker is down,start service..."
     start docker
