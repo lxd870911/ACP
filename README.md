@@ -17,7 +17,7 @@
 ## 平台截图
 点击可以看大图
 - 应用概览
-<a href="http://7xihe6.com1.z0.glb.clouddn.com/cloudbang_01.png"><img src="cloudbang/docs/imgs/cloudbang_01.png" width="100%"/></a>
+![应用概览](cloudbang/docs/imgs/cloudbang_01.png)
 
 - 应用首页
 <a href="http://7xihe6.com1.z0.glb.clouddn.com/cloudbang_02.png"><img src="http://7xihe6.com1.z0.glb.clouddn.com/cloudbang_02.png" width="100%"/></a>
