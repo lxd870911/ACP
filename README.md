@@ -48,8 +48,7 @@
 ### 云帮微信群
 >云帮小秘书可以拉您进云帮微信群：
 
-<img src="http://www.goodrain.com/images/weixinqun.jpg" width="200"/>
-
+![微信群](docs/imgs/weixin.png)
 ### 文档支持
 - [安装文档](http://doc.goodrain.com/cloudbang-community-install/198880)
 - [使用文档](http://doc.goodrain.com/usage)
