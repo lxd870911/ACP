@@ -4,7 +4,8 @@
 # Info    : Cloudbang manage node setup websocket service script
 # Author  : zhouyq@goodrain.com
 # Version : 1.0.0
-# Histroy :
+# Histroy : 
+#           2016.10.19 解决sed替换匹配错误的bug
 #================================================================
 
 CFG="/etc/goodrain/console.py"
@@ -33,8 +34,8 @@ else
   PrintInfo "info" "backup config file..."
   cp $CFG ${CFG}.bak
   sleep 1
-  sed -i -r "s#(ws://)172.16.0.193(:6060/websocket)#\1$eth0\2#"  $CFG && \
-  sed -i -r "s#172.16.0.193(:8188)#$eth0\1#" $CFG && \
+  sed -i -r "s#(ws://).*(:6060/websocket)#\1$eth0\2#" $CFG && \
+  sed -i -r "s#(: ').*(:8188)#\1$eth0\2#" $CFG && \
   PrintInfo "info" "Websocket setting is successful." && \
   PrintInfo "info" "Restart console service..." && \
   dc-compose restart console
