@@ -13,7 +13,7 @@ function PrintInfo {
 }
 
 
-BaseServiceList="beanstalkd etcd mysqld"
+BaseServiceList="beanstalkd mysqld"
 
 K8SList="kube-apiserver kube-controller-manager kube-scheduler kubelet calico"
 
@@ -27,7 +27,7 @@ echo -e "\033[42;37mCheck docker daemon service...\033[0m"
 for i in {30..0};do
   if pgrep -f /usr/bin/docker >/dev/null 2>&1;then
     if curl localhost:2376/version >/dev/null 2>&1;then
-      PrintInfo info "docker is OK"
+      PrintInfo info "docker is OK\n"
       break
     else
       PrintInfo error "Waiting docker start..."
@@ -39,6 +39,22 @@ for i in {30..0};do
   sleep 1
 done
 
+# etcd
+echo -e "\033[42;37mCheck etcd service...\033[0m"
+for i in {30..0};do
+  if pgrep -f /opt/bin/etcd >/dev/null 2>&1;then
+    if curl localhost:4001/version >/dev/null 2>&1;then
+      PrintInfo info "etcd is OK\n"
+      break
+    else
+      PrintInfo error "Waiting etcd start..."
+    fi
+  else
+    PrintInfo error "etcd is down,start service..."
+    start etcd
+  fi
+  sleep 1
+done
 
 # BaseServiceList
 echo -e "\033[42;37mCheck Base Services...\033[0m"
@@ -80,6 +96,9 @@ do
     fi
 done
 
+echo -e "\n\033[42;37mCheck supervisor services...\033[0m"
+supervisorctl status
+
 # Docker
 echo -e "\n\033[42;37mCheck container services...\033[0m"
-dc-compose up -d
+/usr/local/bin/docker-compose -f /etc/goodrain/docker-compose.yaml  up -d
