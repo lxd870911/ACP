@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo "Preparing clear exited containers..."
+cclear
+
+Img_None=$(docker images -aq -f "dangling=true")
+
+if [ -z $Img_None ];then
+	echo "No none images need to delete"
+else
+	docker rmi $Img_None
+fi
