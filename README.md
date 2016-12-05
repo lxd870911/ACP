@@ -17,19 +17,35 @@
 ## 平台截图
 点击可以看大图
 - 应用概览
-![应用概览](docs/imgs/cloudbang_01.png)
+![应用概览](docs/imgs/new_cloudbang_ds.png)
 
 - 应用首页
-![应用首页](docs/imgs/cloudbang_02.png)
+![应用首页](docs/imgs/new_cloudbang_home.png)
 
 
 - 性能监控
-![性能监控](docs/imgs/cloudbang_03.png)
+![性能监控](docs/imgs/new_cloudbang_realtime.png)
 
+- 监控走势
+![性能监控](docs/imgs/new_cloudbang_zst.png)
 
 - 应用高级属性
-![应用高级属性](docs/imgs/cloudbang_04.png)
+![应用高级属性](docs/imgs/new_cloudbang_advanced.png)
 
+
+> 可以访问云帮公有云快速体验 https://user.goodrain.com
+
+### deom视频
+- 创建应用
+
+<video src="http://www.goodrain.com/images/video/newapp.mp4" style="width:80%;" controls="controls"></video>
+
+- 实时监控
+
+<video src="http://www.goodrain.com/images/video/performance.mp4" style="width:80%;" controls="controls"></video>
+
+
+-----
 
 > 可以访问云帮公有云快速体验 https://user.goodrain.com
 
@@ -55,3 +71,5 @@
 - [平台维护](http://doc.goodrain.com/cloudbang-community-install/213172)
 - [云帮介绍文档](http://doc.goodrain.com/cloudbang-intro)
 - [企业版功能介绍](http://doc.goodrain.com/cloudbang-enterprise)
+
+
