@@ -61,11 +61,11 @@
 ### 云帮微信群
 > 云帮小秘书可以拉您进云帮微信群：
 
-![wechat](http://www.goodrain.com/images/weixinqun.jpg)
+![wechat](http://ojfzu47n9.bkt.clouddn.com/2017032214901508126968.jpg)
 
 ### 文档支持
-- [安装文档](介绍.md)( 本文档)
+- [安装文档](http://doc.goodrain.com/cloudbang-community-install/247616)
 - [使用文档](http://doc.goodrain.com/usage)
-- [平台维护](维护.md)
+- [平台维护](http://doc.goodrain.com/cloudbang-community-install/215655)
 - [云帮介绍文档](http://doc.goodrain.com/cloudbang-intro)
 - [企业版功能介绍](http://doc.goodrain.com/cloudbang-enterprise)
