@@ -25,9 +25,9 @@
 
 <td><a href="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_realtime.png"><img src="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_realtime.png" width="100%"/></a></td>
 
-<td><a href="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_zst.png" ><img src="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_zst.png" width="100%"/></a>
+<td><a href="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_zst.png" ><img src="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_zst.png" width="100%"/></a></td>
 
-</td><td><a href="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_advanced.png" ><img src="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_advanced.png" width="100%"/></a></td></tr>
+<td><a href="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_advanced.png" ><img src="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_advanced.png" width="100%"/></a></td></tr>
 
 </table>
 
