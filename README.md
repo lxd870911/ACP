@@ -61,7 +61,7 @@
 ### 云帮微信群
 > 云帮小秘书可以拉您进云帮微信群：
 
-<img src="http://ojfzu47n9.bkt.clouddn.com/2017032214901508126968.jpg" width="50%" />
+<img src="http://ojfzu47n9.bkt.clouddn.com/2017032214901508126968.jpg" width="30%" />
 
 ### 文档支持
 - [安装文档](http://doc.goodrain.com/cloudbang-community-install/247616)
