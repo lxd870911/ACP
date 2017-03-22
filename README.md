@@ -1,10 +1,13 @@
 ## 云帮 是一款基于容器技术，以应用为中心的PaaS，借助它您可以：
 
-- #### **对接现有CI/CD系统**；实现快速开发、部署与发布。
+- #### 对接现有CI/CD系统
+> 实现快速开发、部署与发布。
 
-- #### **作为容器管理平台**；以应用为中心，高效管理容器和底层计算资源。
+- #### 作为容器管理平台
+> 以应用为中心，高效管理容器和底层计算资源。
 
-- #### **作为运维平台**；实现服务快速伸缩、微服务治理、业务性能监控。
+- #### 作为运维平台
+> 实现服务快速伸缩、微服务治理、业务性能监控。
 
 <br>
 ## 快速开始
@@ -16,9 +19,17 @@
 
 ## 平台截图
 点击可以看大图
-|<a href="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_ds.png"><img src="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_ds.png" width="100%"/></a>|<a href="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_home.png"><img src="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_home.png" width="100%"/></a>|<a href="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_realtime.png"><img src="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_realtime.png" width="100%"/></a>|<a href="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_zst.png" ><img src="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_zst.png" width="100%"/></a>|<a href="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_advanced.png" ><img src="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_advanced.png" width="100%"/></a>|
-|-------------|--------------|----------------|---------------|-------------|
-| <center>应用概览</center>| <center>应用首页</center>| <center>性能监控</center>| <center>监控历史</center>| <center>应用高级页</center>|
+<table>
+<tr><th>应用概览</th><th>性能监控</th><th>监控历史</th><th>应用高级页</th></tr>
+<tr><td><a href="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_ds.png"><img src="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_ds.png" width="100%"/></a></td>
+
+<td><a href="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_realtime.png"><img src="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_realtime.png" width="100%"/></a></td>
+
+<td><a href="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_zst.png" ><img src="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_zst.png" width="100%"/></a>
+
+</td><td><a href="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_advanced.png" ><img src="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_advanced.png" width="100%"/></a></td></tr>
+
+</table>
 
 
 ### deom视频
