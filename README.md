@@ -27,7 +27,7 @@
 
 <td><a href="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_zst.png" ><img src="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_zst.png" width="100%"/></a></td>
 
-<td><a href="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_advanced.png" ><img src="http://7xihe6.com1.z0.glb.clouddn.com/new_cloudbang_advanced.png" width="100%"/></a></td></tr>
+<td><a href="http://ojfzu47n9.bkt.clouddn.com/20170322149015212821489.png" ><img src="http://ojfzu47n9.bkt.clouddn.com/20170322149015212821489.png" width="100%"/></a></td></tr>
 
 </table>
 
