@@ -33,11 +33,11 @@
 
 
 ### deom视频
-- 创建应用
+- [创建应用](http://www.goodrain.com/images/video/newapp.mp4)
 
 <video src="http://www.goodrain.com/images/video/newapp.mp4" style="width:80%;" controls="controls"></video>
 
-- 实时监控
+- [实时监控](http://www.goodrain.com/images/video/performance.mp4)
 <video src="http://www.goodrain.com/images/video/performance.mp4" style="width:80%;" controls="controls"></video>
 
 
